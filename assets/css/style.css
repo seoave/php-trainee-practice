@@ -16,3 +16,8 @@ main {
     margin-left: auto;
     margin-right: auto;
 }
+/* profile */
+figure.member-photo img {
+    max-width: 100%;
+    width: 100%;
+}

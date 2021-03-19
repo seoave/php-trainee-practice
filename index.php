@@ -32,7 +32,7 @@
                             </figure>
                         </div>
                         <div class="col content-col">
-                            <h3 class="post-title">Title</h3>
+                            <h3 class="post-title">Title2</h3>
                             <div class="post-card-content">
                                 <p>text</p>
                                 <p><a href="#">Read more...</a></p>
