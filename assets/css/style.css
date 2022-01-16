@@ -10,7 +10,7 @@ main {
 }
 
 /* login page */
-.form-content {
+.login-form, .register-form {
     width: 100%;
     max-width: 400px;
     margin-top: 100px;

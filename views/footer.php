@@ -1,10 +1,9 @@
-<?php
-echo '
+</main>
 <footer class="bg-secondary">
     <div class="container">
         <div class="row">
             <div class="footer-content">
-                <p>2021</p>
+                <p>2022</p>
             </div>
         </div>
     </div>
@@ -12,4 +11,3 @@ echo '
 
 </body>
 </html>
-';
